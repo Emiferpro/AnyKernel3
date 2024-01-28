@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=kernel for POCO M4 Pro 4G/Redmi Note 11S 4G
+kernel.string=Unstable kernel for Redmi Note 11 Pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=fleur
-device.name2=miel
+device.name1=viva
+device.name2=vida
 device.name3=
 device.name4=
 device.name5=
